@@ -49,6 +49,7 @@ a {
     color: #fff;
     text-decoration: none;
     margin-bottom: 10px;
+    text-transform: uppercase;
 }
 
 .container-header {
@@ -102,6 +103,7 @@ a {
     line-height: 5rem;
     border-bottom: 1px solid #282828;
     transition: color 0.3s, background-color 0.3s;
+    text-transform: uppercase;
 }
 
 .nav-menu a:hover {
@@ -144,6 +146,10 @@ section .container {
 
 .d-flex {
     display: flex;
+}
+
+.img-btn {
+    text-align: center;
 }
 
 .about-me .content {
@@ -267,7 +273,9 @@ section .container {
     height: 50px;
     border: 1px solid #909096;
     background-color: rgba(0, 0, 0, 0.2);;
+    text-transform: uppercase;
 }
+
 .flat-button:hover {
     color: #08fdd8;
     border-color: #08fdd8;
