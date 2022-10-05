@@ -36,7 +36,9 @@ a {
     margin: 15px auto;
     display: block;
     width: auto;
-    border: 8px solid #2c2f3f;
+    /*border: 8px solid #2c2f3f;*/
+    background-image: url(../images/pattern.png), linear-gradient(to right, #08fdd8, #18d26e);
+    border: 5px solid transparent;
 }
 
 #header .profile h1 {
