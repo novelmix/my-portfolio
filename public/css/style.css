@@ -132,7 +132,7 @@ section .container {
     width: 120px;
     height: 1px;
     display: inline-block;
-    background: #08fdd8;
+    background: #18d26e;
     margin: 10px 10px;
 }
 
@@ -159,7 +159,7 @@ section .container {
 .about-me .content h3 {
     font-weight: 700;
     font-size: 26px;
-    color: #08fdd8;
+    color: #18d26e;
 }
 
 .fst-italic {
@@ -277,6 +277,6 @@ section .container {
 }
 
 .flat-button:hover {
-    color: #08fdd8;
-    border-color: #08fdd8;
+    color: #18d26e;
+    border-color: #18d26e;
 }
