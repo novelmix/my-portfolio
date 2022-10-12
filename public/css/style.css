@@ -257,6 +257,7 @@ strong {
     min-height: 150px;
     margin-top: 10px;
     outline: none;
+    resize: none;
 }
 
 .flat-button {
