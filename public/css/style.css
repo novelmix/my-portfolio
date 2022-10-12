@@ -231,6 +231,10 @@ strong {
 }
 
 /*CONTACT CONTAINER (START)*/
+.fl-rg {
+    float: right;
+}
+
 .contact-form {
     display: flex;
     justify-content: center;
@@ -270,7 +274,6 @@ strong {
     border: 1px solid #909096;
     background-color: rgba(0, 0, 0, 0.2);;
     text-transform: uppercase;
-    float: right;
 }
 
 .flat-button:hover {
