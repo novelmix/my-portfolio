@@ -19,6 +19,7 @@ body {
     min-width: 320px;
     color: #fff;
     padding-left: 13rem;
+    user-select: none;
 }
 
 a {
